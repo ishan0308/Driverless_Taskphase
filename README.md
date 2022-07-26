@@ -1,10 +1,10 @@
 # Driverless_Taskphase
 
-### This is a python project for Student Marksheet
+##### This is a python project for Student Marksheet
 
-### Libraries used - NumPy, Pandas
+##### Libraries used - NumPy, Pandas
 
-### The student details are stored in a csv file called 'rc.csv'
+##### The student details are stored in a csv file called 'rc.csv'
 
 1. It has a main page (task3.py) which has the options to add student details, update student details, computing ranks, displaying marksheet, finding merit students. Ech option invokes a different function to perform the request.
 
